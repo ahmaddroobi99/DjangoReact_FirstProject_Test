@@ -1,19 +1,10 @@
-# DjangoReact_FirstProject_Test
+# First Django + React experiment
 
-Original Python coursework / practice repository (2021).
+First attempt at pairing Django with a React front end. Five top-level files. Experiment, not a product.
 
-This repository is **original work** on this account. It is kept for provenance.
+**Stack:** Python, Django, React
 
-It is **not** current research. Featured work:
+---
+Historical **BSc Computer Engineering** work (An-Najah National University, 2021). Kept for provenance — not current research.
 
-- [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) — QG Lagrangian data assimilation
-- [ai-perception-lab](https://github.com/ahmaddroobi99/ai-perception-lab) — computer vision lab
-- Profile: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
-
-## Language
-
-Python
-
-## Year
-
-2021
+Current work: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
